@@ -1,0 +1,7 @@
+{
+  "message": "'break' not in the 'loop' or 'switch' context",
+  "exception": "Symfony\\Component\\ErrorHandler\\Error\\FatalError",
+  "file": "C:\\web\\OpenServer\\domains\\parser\\app\\Http\\Module\\Parser\\Parser.php",
+  "line": 97,
+  "trace": []
+}

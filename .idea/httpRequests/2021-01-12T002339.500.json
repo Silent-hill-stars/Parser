@@ -1,0 +1,7 @@
+{
+  "message": "Maximum execution time of 60 seconds exceeded",
+  "exception": "Symfony\\Component\\ErrorHandler\\Error\\FatalError",
+  "file": "C:\\web\\OpenServer\\domains\\parser\\app\\Http\\Module\\Parser\\HandleHtml.php",
+  "line": 29,
+  "trace": []
+}

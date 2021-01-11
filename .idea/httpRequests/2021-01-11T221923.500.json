@@ -1,0 +1,7 @@
+{
+  "message": "Access level to App\\Http\\Module\\Parser\\Parser::__construct() must be public (as in class App\\Http\\Module\\Parser\\InterfaceParser)",
+  "exception": "Symfony\\Component\\ErrorHandler\\Error\\FatalError",
+  "file": "C:\\web\\OpenServer\\domains\\parser\\app\\Http\\Module\\Parser\\Parser.php",
+  "line": 13,
+  "trace": []
+}

@@ -1,0 +1,2081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db9ca7a0-9317-44bf-8b11-a97e1ae94e71" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1mvxkZByl6l9bJwWqVM4RGUT9gd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTTP Request" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610406819000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InRPMkw3YWJCc1FFMGJKeTE0SWI2S1E9PSIsInZhbHVlIjoiYmNJR2NLOTN5L0FQNURtR0Zoa3Z5OUFCNVBQK3ZMUndRV1JEYVFML3pUdGM5emxOZXh3THh5cGxkYTdEeXlZZXhxQVIySW1Ma1h3QUZOcmhvZHNxSVJxL1UybGF5RGxTaE5YYTZlUU0yck93dlQ3UTBhcFNGWXdWQ2NhMkhseU0iLCJtYWMiOiI1MzcxN2I1YTYwMjU4OGU5NWYwYTg5MGUwMmRjZWI5M2E3MTRjZDM3ZDhmMTdiMTYwZWE5MTA5MDZhOGQ5NzdjIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610406819000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlQrOFBqOElKdjJ3V0RWN1NqbzkvM0E9PSIsInZhbHVlIjoiZlBPcWVMZEpLYkN4eGpsSEpOQmlzRnNMTGM2M2MzUkRpUGRranF3ZHN4QklqQUZoWTBzOTA0T3AwVGprQjdlM2JuQmtRTzVDYjEwbW9iQ2IwWDgveXRsVXVkZDVBT1I0TVJlQlI2Z0N2UVRmd1VBK0dybXR3ZEFpWkJmQ2N5NXMiLCJtYWMiOiIxMWRhNWIyYjE1ZWI4YjFlM2ViMWVkMzg4NjFmOTlhNWYyZTkwNzYyYmI1NjdlZmVjMjdhMDU0YzA5YTBkMTg5In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://tsunami.bar/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610406819000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InRPMkw3YWJCc1FFMGJKeTE0SWI2S1E9PSIsInZhbHVlIjoiYmNJR2NLOTN5L0FQNURtR0Zoa3Z5OUFCNVBQK3ZMUndRV1JEYVFML3pUdGM5emxOZXh3THh5cGxkYTdEeXlZZXhxQVIySW1Ma1h3QUZOcmhvZHNxSVJxL1UybGF5RGxTaE5YYTZlUU0yck93dlQ3UTBhcFNGWXdWQ2NhMkhseU0iLCJtYWMiOiI1MzcxN2I1YTYwMjU4OGU5NWYwYTg5MGUwMmRjZWI5M2E3MTRjZDM3ZDhmMTdiMTYwZWE5MTA5MDZhOGQ5NzdjIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610406819000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlQrOFBqOElKdjJ3V0RWN1NqbzkvM0E9PSIsInZhbHVlIjoiZlBPcWVMZEpLYkN4eGpsSEpOQmlzRnNMTGM2M2MzUkRpUGRranF3ZHN4QklqQUZoWTBzOTA0T3AwVGprQjdlM2JuQmtRTzVDYjEwbW9iQ2IwWDgveXRsVXVkZDVBT1I0TVJlQlI2Z0N2UVRmd1VBK0dybXR3ZEFpWkJmQ2N5NXMiLCJtYWMiOiIxMWRhNWIyYjE1ZWI4YjFlM2ViMWVkMzg4NjFmOTlhNWYyZTkwNzYyYmI1NjdlZmVjMjdhMDU0YzA5YTBkMTg5In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610406765000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkhJR2J4S1hCb1pxUEhnYk5mTTEvMHc9PSIsInZhbHVlIjoiUWhUVEh4bnlkdzNEZkhNd2JrZWF5a1ZpTTQyNk5aM1BQWEt2OUVobU9MYnlXbU5IeU50YWcxYUV2NWhMYVNQTURNZCtvZlA2L0E2N2tWeTlyUDh1QTI3Q0dNYjZNVHdwVVI1ZGtFSk0rMnJ1bXZIM1krcEdQUnU3NDRDek53QTIiLCJtYWMiOiI5ODBlMWQ2ZDVkY2ViYjlhODRjODhjOWY2ZjRiNzI5ZDBkYWFjYmJmZWFmYjAzNmY1OWNiNGNmOGYzNDA3YTk2In0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610406765000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjhoOEkwODRIYWg0aG5UT0dXRFRPdUE9PSIsInZhbHVlIjoiQkQ5MWFOUk5TQmRjd2Y2Mkp5MFcxczZwYzFSaklpeEdTV3I5S1JjR0xkdkZ4SzQ0MEJFTkNqTUxmNSs5QVJDUGtKNkNWYzR2S2g0c2RNWmkvTzhGWll2N2dOQXpYbDFCbVg0dnJmL3VZUHY5S0JWMEVpTGEwVVhiWFJqV01KVG4iLCJtYWMiOiJhYmNlZDFlMTYyNjNkM2VmZTQ5ZjZjODcwYjNjNTUwODJjMWYzYzU2YzA4ZTM2ODI4YjM1NjJhMDFmMTllY2VjIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610406702000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkRQRW5ibUtIUmVnd3Jidm9PQmpOd0E9PSIsInZhbHVlIjoidDJTN01wZnlqV0VKWTNqZWZadER3bjB2R1JWWkl2RDZ6VW1ObmhRMEF3SUVrcGdtYW82NmR0Q3pWajUvQzBTT2NzMmVPZ1NjcmtocVg0NDNiYktvK2pNLzZKR3YvVE02cExsK1dzcmlpZXJ2SFpGUGswRnFzclVFcy9namwxa3IiLCJtYWMiOiJlNzJmNmE5Y2Q5ODU2Zjk1YTBkNTMyNDA5ZWQxZDIwOTRhNmIxNzRhNGMxNTc4MzkxZTEwMWYwYmQ3ZjVlYjhlIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610406702000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlJBWGRkek93bFNXeVZSMEJxVVpScHc9PSIsInZhbHVlIjoiM0orU3Z5TzJ6ZXdGdm4yUkdzVEEyWGdBSW1SK1FrSFNhVm8vcXdTMkEwYUIzZ29tZ2dZOE5seFlnWEUwQW8zc25rY3MyUnAzcTY1OXh0R1pTMjVRY1IwSk5pZk8rVyt5QXJFMDM1UlJmRDgvbEdjMEZjOEF4MkVISTJLYW5ndnkiLCJtYWMiOiJmNDMwMjRiNzExMTJiZWNlYmMxMWRhZTEyOTE3MDlkNThmMTNkYTcyNjVkNDIwMTZiODIzYjlhYjYxMTk0YTc5In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610406678000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjVRZ2l6d1MybXVCK3FtdmNDOGR4c1E9PSIsInZhbHVlIjoiVThiOWoxQWg5WDRMQ2t6cEVvQS9pTFIrblFlTUswM1k5WG9SMU9RdGhlL28xUnRUbHkrY29QTThWYm9rRzNzM3BheXI0czgyTXd5Qi9XemVsOUVQTCsxQlZldGxLSG1CdSsyUVJhSWNCUnZ2dmt6YTY2UkhZa2RzbW03dXBXZ3AiLCJtYWMiOiJjNGU0Y2IyYzk0NWM0NGRhYzJkYzM4MDFmNTRhMmE4MGZjNTM2MzJiOTU5YmNlZTgxMDYxYjNkZmIxMzVjYzI3In0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610406678000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImdOYXRZS2lJQy92bWxmNE9BRFVROWc9PSIsInZhbHVlIjoiMkF1UFpMUS9zOU1BcS9nSmNqampjcG5vcjdaMHNIVXVEVUhsMkZuem9SV1IwYmdUS01jSVRPei9URExXUVBXNDVJc0lhbDk0VlEzMFEvNlBMclF5amhuTWV0ZXlnazdDTXNSS1hOOEpyWkhRVmNOUSs5dFBvenJ2TDVTOVhzb20iLCJtYWMiOiI4NmNmMTgxODc4NWFiMjc1NWQxMTMzZjVmMTM2ZmE5MzNjMWY4YTM2NTI0OGVkOTFkMjExNzYzNmU2NTZlNGZiIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610406637000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjYyM2Rxa1ZqMjJmQVJoQThiUktYRHc9PSIsInZhbHVlIjoic0FNcGl4RlV3Y0h4TithdHptalhBRVBsczN0WEVMRXVyZElLMXJxcmlmb05XUzdVcUNxV1pySW5KaG1uRG1PSW9Vb3N4RDJkVHlkTTFsaHZlUDg3dDlKWGR6SVRCL2pzSGJoRlFHT3pVQ3o4c2FRYWFackxJTHVWRzFGeXp4QmEiLCJtYWMiOiIxZDQ0NGIzMzA5MzVkNmFjZDUxNjcxYmEzY2EwNWY1ZTkyODg2NGZjYzgyNDgyMmFhNjk4YmExMDE1NDNiZTAyIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610406637000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImVyNHRRcGpHL0NTK2pHWTNZTjE1cUE9PSIsInZhbHVlIjoiYXozSTRvYVNFVmNiSzlVSisxSkh0dzUrbFYxSFdzUVdxZ1hBOG9zZFNHR2R2dEM2OFY0dFIyRkEzeW02akVHN2Y0TTRPd2tna21ic3Y3aEdQb0lyL2Z0eVl2YWxiNUFQZ3U3VkcvdkRIbTFqVTVqRDk2dk9QV0c5bGxHWTZuTlciLCJtYWMiOiIwNTllYWIzN2JmMjkzOWM0NWYyYjdhNDA4NWY5YjFhYTRmNWM1OWRkNTVlYWRlZjg1YTBlMDIzMjZlNWVhYTMyIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610406608000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InpJNVpFdlFLOUNxTFhNSE1kN2lGanc9PSIsInZhbHVlIjoiN05FU3FNZ1BIR205S0M3UXZjNVZqWUl5OW9RMFZMTmFIejRHQ1NXK1RaNzJvK2RkQXJkUVo4TjcvY2JTVTZFQ0dyN1hUa0J1OEJwOEJOd3kxdUlkN1cxb24xK1dJTUMwUXZIK2lPYmlzVUVOdFlETTlqY3o2aEdaZlovWHJzNU8iLCJtYWMiOiJhZTEzZThlMjVlMGQ0OTUwZWM0ODhjZDlmNjljM2MwMWIxOWEyMmQzNmU1ZGFjMzYwNjJiZmJkNGI2YjdhZWJhIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610406608000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlU0QVgxbEtKaFRETXVLSk9rbVNCR3c9PSIsInZhbHVlIjoiNFNJdXdxazZJbzBiQkxkVkl0NEtzbjYrZUVsK0hnSDRjamVWeFBjTnhldGlaQytNOUdEVmc2MmFpSHZiKzNCbm5nQVZlbTZZeHlPL3NxVEpLbHp6OXhQN0F1N3N2OVNKUzQ5UjUwZVB0MGU2UFQ5K1lzWFRvNkVpMnFkeTkreDEiLCJtYWMiOiJhODk0MTAwNTAyOGM4YmVkNmEwZTY1OGY5YTlmYWRkYTc4ZDllYjczOGI5MTRiMmZjYzhkMGI3OGUyOWVmYTM4In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610406519000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InBwdkxHSjJoN2JMUHZwTGxQZzdZK0E9PSIsInZhbHVlIjoiZmdLQlQ0Q1UxZnk3UjdxTFhNcGczZHRxUGd1VGplNWVIOURoTUM1ZzJTK0tINzZmd0tYeE9oSTAwamFIVXJDZEtTTVc2MGw1VGFxY1l6NEhkQjJVbUo4Mys4eXhBL096VU4vUFkyY1U4eGZPaDlaQ05SRll2OG9EWEt1dHpKbmEiLCJtYWMiOiJmODk5OWVkNjBiOWVmYWQ2ODdlYjJlMjI0MTMxOTQ1NGFhNjA0OGViZmNjY2YzZjc4ZmEwMDJlNTViOTIzM2NmIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610406519000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IndmZUg2U0NpK1kvQ1hGd2RoZTZMeHc9PSIsInZhbHVlIjoia0pEL2ovQkxQTmszdlFqK3JUZlFaVlFJRWFiOEdNeHpGOFA2U0RsKzNtUzJZbEtRQmE3Yk15R2VtYVA3UUFtbjNoQ1VTako1TnVYeTFhK1JhalI1ek9lSW1tZmNqUzRobFBKWGRTOWpYWVppTGhGTzdDOFZrVXI0eDBhblFRZDciLCJtYWMiOiIyMjA1M2U2MWUxMzkwMTU4ZjZjNTM4MThiMDViZWE3YzdhZmQ3NjMzMDExNjNlZTU0YmIyMjRhZDhmNzIxM2JmIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610406485000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IktOOUd4bFBTeGd0SkdMYkVEVzNlOGc9PSIsInZhbHVlIjoiUjJqQURDbWFCQVhEdzh4bVpnQ3g1MjA0UkNHRnQ2NmE5RW1zclFBS3Fub2FoWVBXQVU5YWt1VUg5SW5JZkp5OGtSbmUxeEZWNDM2a013SHp4QStCRVVOMExxOG04MzJyMzJRYXZnZTBpeWJNSVRsdC83d1FLZlRlQmZObnkyMDEiLCJtYWMiOiJjZDUwNzk2M2FhMTNhMDhiZmEyYWM0M2UwZmZjZTA2M2FjYzhlYmI1NDk4OTM3MTNmZWUzYTQyMWYwMjQyNTE4In0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610406485000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjRIQmtPWDRXTnFTVnlRb1VvTC9qN0E9PSIsInZhbHVlIjoiUDdMZWwwYklGd0FMQUVRMExieC8wRHArZzdvTUwwQUxhbzg4ZFRhVUp5RHh6V1pwSSs5aFNwV2ZLK0ltektxcitmVjAzRVNFQitYSHNoZTlRVHkxWFo2WVB0SWVrNWZhMERGYkhBUTluQzFkelpST09nOExxdFVXMjlXL3dvTUEiLCJtYWMiOiIxN2Q0NDQ5MWQ4YjlmMTA1ZmI1ZjZmMjdmNTY2ZjNiZWE1NTZjNzIzZDllMWM4YzJjZjkwN2U2MzMwMTNhMTcxIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610406448000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlVkRkFKaUoyRStNTWl6VUVyV1dRSkE9PSIsInZhbHVlIjoiQWJDTFB4OVd3REFCSGhnYVdBL05HUVFISkRFSVh5aGpKTVNDOFB1MmVaaUU5Wm1CR2I3TVA1NWRNZHRjaTBRZWJNQWFhOVlVMzlwL2pzV1dlSU50c0ZMdVY0Q0lDYTIwTHpRWmxnZE91YnVYV2k5TVdRbU9nZU0rSWFLR3J6Wm0iLCJtYWMiOiJmYjBjN2EwMmQ2M2I4NDFhYjYxNDY5OTFjYjQyYTY0MjU3YzZjOGE3NmE2NmVmNTBkMjEyYzUyMWNiYzRiMjVkIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610406448000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlVnYTVHM3pPNXZVQ0lySitTVmdVUVE9PSIsInZhbHVlIjoiTjdkM0I5V3NVRmUzeGxHZnI3cTlSZWJ0Mndtd0hQcUM3dGxwK0ZqWjlGMTUvSzdZbWh2UUhxQjQzejVZYkpuMm5DNFFadW54RzQxZnBBN3NNYjY0eUVJWGlpMDA5QzE0QkV0VGZWa1dTZEw5Q0ZjNTVtdnBHZGZyRmlaNUlMSGYiLCJtYWMiOiIyNDhkZWNhNDA2Y2Y2NWM4ZGM4Y2ZjMjcwZDk0NjQzMmFmY2ZlMzgwNjA0MDMyMWMyNmIyYTdkMzFiNGYyYWViIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610406023000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IndqVWcycUtsOEJwVFlvZlRVbmRLYlE9PSIsInZhbHVlIjoiUUo4NGlNQnpDb2dBUEhZZkU5WDhqY0c1SkFWOHpYeksrTm9abXB1OWZ3V3NMaklwbmdzeHYybFkrUWtheTFPVWFzTjhkZ2hQQXFQOWsrTElCTlh4RTdJdGVTRTJQRFBTOUtLYWdRUldqb0hBaWxacnBxdFpqYXFsMVhRaVlLeVIiLCJtYWMiOiJhNjI0Mzk0ZGJjMDNkYjQyZTY0NTdhYjI4NWUwZTkzYjZhNzI0OWJiMzRjN2RiMDczOWViYzBkYjkwYTY4MGJiIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610406023000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImtZVDFhSWNhcEhrK0dvTU1zeTRtSGc9PSIsInZhbHVlIjoibHR5RGM3b0RCS2lOMjJpMzZZZ0twV0hXTlhPalNTRGlJUktZMElNYnYvUG9kRDZHOFovREhjc1Bna1diN2J0Mm5weHd3b3dQa3piK1RtRzg2SVlUclNhMEkxdG1FeFBnRjdiMm5lbG11RkpLZkRiVkJ6SzhIVkFudHlNUHI0Q1MiLCJtYWMiOiJhMmI5ZWUzZmVhOTZlZmY0YTM0Zjg5ZDg3Y2E1NjhiNTg3MzVmOGVkODhhNTE5MTAxMTEzYzUyZjViZjE2Yjc1In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610406004000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjY1NElLaTlORTE3N0lBRVBpd3hFVmc9PSIsInZhbHVlIjoiRzc3V0hTd0ZuYWp1K29VZVF3Mzh6VHphMkhvU0ROcVVuMUZxV1ZuNjdLNWl4bFdrQzZrcG43ZVREcWZNR3Z5QXMxVjlzVTF1MHhGdy81NG13U2xIUEpNTUVsbVJUVXBodXFLTGgraUZKQ0g3dHNHT2NHaEZsaU1RZUwzVjBDdWciLCJtYWMiOiI5NjU2NmE4YjA0ZTgzM2JjYTUwZDhlNDJmMWE5ZDAxODlmZjYwMWQyNzFhMjkxY2M5MTQxMzAzY2RlZjhmOTNiIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610406004000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImRIcnNXTDAwaUtUd0xBS3RpdWMxU2c9PSIsInZhbHVlIjoidVB2eDZKTDA0dGQ1NkFsQ3lVVVFxS0lDK28wZit2M0lpcm1FMk5Tc2VsU1JwbXBsV2V3UHhiaXY2cktqTy83alJRZ00yYmM2SXZkS241RmwyL2RBUWZWNGhrR0JqV2Yvb0NPS3VoOEgweEFpVWN3anVobm5PNGl6R1NaMituRnkiLCJtYWMiOiI4ZDE2ODNiZTJjYzA0MDc4MDVkY2I4NDlhMGY3M2E4MjRkNTRlMjEwZWE1YTEzYTFjNDJkYTEzMWQ2M2QzODg1In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610405989000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImpNbTZHRlBqcVAwSm5vVDA3N214QVE9PSIsInZhbHVlIjoiRHFHYTY1QlJOaTlWa2tpR2FJRVdQSm9yM3FZU3NIejJYcFRyWHAzRlkzNE1saTQvVmx6S3lVRCtzdXord2JwalR1VzZQeUl2UmVPMVJTL2RyMkttSTNYNDYxcXkwbVB0NytIQklzWU13d240NVhGTTRIMUNvbEh5UGg4NGxPMnAiLCJtYWMiOiJkMDA3M2RiNzlmYTdmMGUxYjIxZDdmNGYxOTFlNjRiNmQ5ZTUxOTJkNTI5OGQ2ZTBkNGFlOGRlNDE3ZmQ2NTdkIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610405989000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ii9CSTloMWNBdUpkQ2o4bjVYK21aYkE9PSIsInZhbHVlIjoicnVvMHF6UHl3d0V0UGkyaFBHVXpBWHFCc3hRb3hzM3VUa1duTVIvT1VTZ0Z0OFdjR3lScVZDZmZHdzdnWmk0WVVuYUpDbVB3OHllOXlNeWJIUG14aHVCY2dUd1FXMU5mRU5EWlhhd05KREJCaEhMOElwSVRycGhSVlhtUmdvakMiLCJtYWMiOiJjNzY3ODdjNjgzZGExNGM3OGEzNDU4NTQ3MTY0MzYzZDMzY2Q5OWM1OTNhODcxNzM2Mzk1NTRiZWM1OTY1ZDIzIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610405979000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImNhaHpGN3NJQm1IQVN3Q0FIVUdxbXc9PSIsInZhbHVlIjoiWDh1bHRlRjFXd0U4eDhXZU9iTVVIb01IYmE4emhrMmVMMTdPQlUvNjg1SjV0WFN0aGdMVUNuWU5xMElSTEJybVlhQTZ3REU0YnVrZjhSOW83QnVHc2x2d2hVQ0J5TVBUek1oSGs3cHNQQlF4OWlXQy84MG40Z1JxSjYyS1JpWXEiLCJtYWMiOiIyNWIxYzI2ZmExY2MwODVhMjA2NzhlZDhlNWI3NTRkOGZiNjgxNGNhN2YxMDU4MDVkZTg1MDI3NGNmYzNkMmYzIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610405979000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Im9HNHBYU2ZjOGpDR0J5ajhsTkErY1E9PSIsInZhbHVlIjoiL2M5WG1BdkszSmh2RmRUeUdHcTUrWVoxRk5IV3NydlBnSWd4OVBmR3NCYjJ6SFl5dTlRdFF6NEVsSHpSbFU2a21lU29YbnVQekFPaWxWc3E5SzVWVEhhdnNRVit2VzUxeWltUWpxNys3ZU84Z0NweUMxSjBJQjZPVE9icEE1WE8iLCJtYWMiOiJkYjFjYzBhNDQwMTY0MTQ5M2Q3MmYzMzJjYmJiYTQyZjkzZTgxOGJhNmRiNzc2YTU2OTQwYmI3ZDBjMmE2MmFiIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610405928000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkJqYzdCdDc5UDJIQXpnRXh5K2laM1E9PSIsInZhbHVlIjoiVjZDdGpFZUdNdkFkcGlFZmVQR0syTUZSRmJNc2lRTWs4Z2tQYUZMaGh6cHJ5S1RLK3Evck9XR29ISGtpTmpKSDlzbjg2eDNLZVZ6NzlnbjJpZzJuYUpyeFBpbzkrTDlXU3N3QTI0YkRmbVVGSEdVeHQyU1ZhbnBLUHpmQVJYV2MiLCJtYWMiOiIyMDk3MzU0ZTQ2OWNhZDBmMGQ5MjVkMjNkNzMzMDJmM2QwOWUzM2IwNjk0NmJhZDI1YTVmMjM1OTRmYTk3Mzk3In0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610405928000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjZtcGJRdHV0K0pjbm5iZ2hjWWp4N1E9PSIsInZhbHVlIjoiODJVNmJ1MStGZ1JxTmZKRzBiL1ZlRE9LRzBuTnduQVhQcDVWaGc0M3pEZ3piZjF1YVBhL2FleWtFeUgrN0F1aVVPRE1qcEFjU3RaSWNONEVVeEFzVGcwbkpiZXRNRVAyYlBWVEpoU2VsUWc5WmFWcTJVUndJS0J1UENTbFg0ZmEiLCJtYWMiOiI5ZjJlODg4YmZlYTY3YmE1MWNlNzQyYWUwNzNjY2ZiNDM2YzQ5YmYyYmNhMjE0OTM1ZGUwZDQ3OWQxMzkxMzYwIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610405909000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InEwK1p4RmsydWhxdmltYkhQSUdLaXc9PSIsInZhbHVlIjoiTjNWNVM3YjdMcldMcnlDZ1BSWXVYUjZSeEpmOC9jZ2ozRTRaaEt6TVJJMG1WMXZpT2dlR3gralNlOFBERElzRUx5YWV6eFY2cElqNE9BajVETDVWNG8zM0M1T3B6YnZOWHoyL1Y1ZmJMbTc0Wm5sZ3I5VEJtNjVzeHNneWlUOEEiLCJtYWMiOiIxYzg2MTg1MzE0OTUzMDNkOTI0ODM2ZGExNzAyYThhYWQ5ZjJiYWU1YzA2MzEzNDAwMmM2Y2QwYzE1ZTIyOTk0In0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610405909000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InFLUzBLSUs1R2FHenNWamROU2ZVQmc9PSIsInZhbHVlIjoiaS8xdVZ5UU0vaExpaEcvRXFkVmp4ZDBncXlIZVUvVm80RjFSSTVlUHkvWGxEZkJUWkVUdUpHeEZjcDFaaW0vN1haNWpsQmptb2p4VVpzcE9mL1hiYkRta3lyZU5XZEhJNW5mVEN2dG13MnNLdDFINHNub2J0QzFOc2UrRzBOZUciLCJtYWMiOiI5NmQzYjBmMTI0NmM1YjQwNDg0MjJjMWZhOWU4NDBiNTgwZGVmMWE1NjE2NTQyMzQ4NTI1ZjMyYjU4ZjllZDYxIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610405890000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Iit1MlNNc05OamwxT3Z6czduMGJNN0E9PSIsInZhbHVlIjoiRGdoSHhYeW1Ucm4zMFQ2RVF1V1hoaWVHZ0Rqdkt2bW83bWRjbVRFUzVnNHpVRm9MUkUrQXQydENNNTFRanVDTjVPUkhXdmxmUHhuUE9oNDhWSnBLUWQvTHpTZ29BNExqak5xSEZQR0F1VHQrM0dqZ2xaNk5iYkZEWkRaZmhsQ24iLCJtYWMiOiJkZmEwN2U5MmZmNWZiNDc1ZDI0NDAxZDFiYjA5ZDMxNjBjZDFmZDYzODFhYzM5ZmU4MzUwMTljZTdkYWVhYjZjIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610405890000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InVoTkUyVnRDb1JBVittV3F4cmVyS1E9PSIsInZhbHVlIjoiSVVadzQzOEQrcFpoajBpUnM0UWVQR0R0cllMeEZGdTl2d2t1ZUdWZHV1N055SGhKOWpKZyt2YmFudWhiL29RY3NwZUUydkhKZG9ZQmE4QnFoZW1jMU5DenFELzV6b3c3OTRjcDJic1dvcjd1Z2JTU1pKNU9GWjVZTktUSDJmNmYiLCJtYWMiOiIxOGRkZWIzZGE2OWJkZjA3YzgwODA1ZGFmMWQ1OGZkNDFlYWQ1NDZmMjNiYWJiMjI2YTJlMTFmNmI1ZWQ3NTA4In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610405872000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ink0eUhPTmFLZG92Z3Z0UDlUYTJTMUE9PSIsInZhbHVlIjoiYmlMdGFRZHNWKzR1dktVWlBnZVZidTFiNHpwVjB2K2NkOGh1M0Q3aU0yc3VPaHhOTHhTK3BObnNYSzlwdCt0N1gvaUhDbVNTTW5ManNBdCtacEF1S0tQSklzV3lvMUVmN2M3RkRrdE01Qnppc1cxU25ZaDk3ZlUxUDdUVTRQL1giLCJtYWMiOiI5MTU2YzQ3NTRhOTJkYWQxYzkyNDZlNzA2NGFjZmM0OGFhM2Q0MzRjMWM1MDk1NGNkZmRjMTViMzcwYWJhNmVkIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610405872000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImRDOXM5d3JvWkpENStvTGRaUmJZaUE9PSIsInZhbHVlIjoiWXFiRjJmcXNFN25PN29iWEZoL1h3TzRqUG1kUTdLVWRZZE1zRUpRSWNzTkRuaXlsS3Y2RXc3NVU1aGh2SURPajVXeGFPR0JyMWIvV3RlNHZCcFhFemNhd0QwYktFV1NaTWZxa3NTWWlQbGZUSXQrYTJnOEZtRExDM0xiMFA5R2giLCJtYWMiOiIwMzBlOTE1MGJlZDI0YTQ2ZTdkODZmYzJlYjUzMDNjMTg5Y2FjN2VkYTg5ZWEwMGRkODZkY2JlZjJhOThlZWVhIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610405820000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjBIQUVoK0czQU96aHk2LzB0ZVRMWkE9PSIsInZhbHVlIjoiUHNseVRiMmVkQmg0NG12TXJLSFNibXp1THF5MXh4emd1VEpEWkNEcFBabUo0TWdteElXK0ZCRGhOZnJtMDZ3WDU1eTRjTmFMdUlZeHF4RWNZMXZ5R3lxNFU3c3dyVFpnQUppOEJOWUh2QXhSM1J6Y1ZJVnBtcmh5RkxwZHlld2QiLCJtYWMiOiJjZWMwNjNhYTBkOWQ3OTliNDU3MmIzZmE4MTE2NWMzMzU1MWE1Mjk4OWRlZTZiZGFkYWYyZTNhYzVlZDhmMjIzIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610405820000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImdHQVkzRzJIUzRFQXlJUjFRRWVJeXc9PSIsInZhbHVlIjoic0k1MkNFU0llcTlTeGpLWmhjZndVM2xKYzRuZjVwamZLb1RkN21CbTNZUVlZQjlkT1ExNFJLc3lQMm9RYWduRE01WXJ0WUsrSCtpWWxKMmxzTTJGN1dVSzZJNFZEQWwvZEEwdWdreVFEZTZiZ1BBM0p3S2F3R2pqUjFtOHk0dTQiLCJtYWMiOiJmZjg1YWRiOWJjZDc0MzgxMjU2ODI3NTY4MDNlNjMzNWIzZTFiNDFmOTQyY2RjOWI0MjcyMDdiM2NmNzQ4ZjgwIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610405808000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Iit1dlpKSXBIUVBPMEkxT2FlTlFwYWc9PSIsInZhbHVlIjoieGdjdGJKMzBITkpGZm5UUzJ6NnBqd1p1TGs1dmVML2xEMlczVDlxV2hjTU01SWFCd0RZOUhtY1gyVk5oeEdkMVl1UCttdkZVTEFPK1ZhSmpwdnBCeGxZMXVHWUwzbGh0L2xhZHRwV1hnNEpkRnkwVHp6RmhDL2VteGllN1ZJVW4iLCJtYWMiOiIwYzI3YjVhNTAyNzEzYWM0MjVhNDIyYmViMTNiOWNlYzdiOGVkMjEyNTdlODU2YWIyMjEzMmU3ZjQxN2MwNmI2In0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610405808000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InVHcW5VUTByWFdoUk56a1B1SDU1NHc9PSIsInZhbHVlIjoiVjhDck5hdy9tOVFHSE1waVpDaDVEM3B2VFVOK1RUOEhwbHJMWVdrbHRYM0s2ak5BeWh4eHd0TFVmWU1uQ2hQeTJZd0dQWWljQ3NOUjR5VFd0WVpkeWNzV1gxZ1YxcmppRHdray8yYlVsRm5ETTRzNCs2SWpGaGdka0Q2bzhhMnoiLCJtYWMiOiJhODYyODI5ZjcyZGM4MzYyNWU2NWVjZWMyZTM1MTk1NzEyZjE4M2M3Nzk5ZGQ4MjI1OTEzNGE0OTkyOTk4MjA0In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610405775000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InFqN1dvb2dkS2NPMzNwbHVyQm9Rb0E9PSIsInZhbHVlIjoiRWxYWER1VXVSYUQvRERNT28ySjJNRmQxWmREVW84Wm1mK2hjMVNXcU1adnQ0M1lwcGJlUEVrc2psN0c2ZHRIVG1EUnVabTAwZVVHRVJENVl4VUV2L0pKaWs2MEI3dVBTMytqZXN4RFk0aXpaT1ZxclZaNm9UMTRKMWtRVEpZT3oiLCJtYWMiOiJmNDZhMWVlOTM1Mzg0MzgyODE2MmNlY2E0NjEzN2ZkZjczZDgzMDc0Yzc5NjM4OTdjZWM0MDk2Yjk3Nzc5NGMwIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610405775000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ik1wV3JxNDZLVWhWWXNzamdrMHh4Mmc9PSIsInZhbHVlIjoiVko4Wng1d0h5cy9URmlIQk92MmF5UFh6UHJKVDJpUnJnUVA0ck5Xb3haK0Y0S1dablpaaWRXMy9ndGhoL3RUYWVUVnJtNzlRckdzdHh0Nm5aL0IxR3RjVlhEd3ZjVGJXMzJ2Ykk1QndYTE82aENvcWZOYVlXTmhKd0tteHdVNGgiLCJtYWMiOiJkOWYyNDJkMjEyZmJjYjM5M2E3Njg4MWM4ZTBmZjk4NmRhZTg1MWUxOTlkMTBjOTRlNDljNWU4MzI5OWIwNDIwIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610405755000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkUzbklsR2NOSkorcEh6WkhXZVY5V3c9PSIsInZhbHVlIjoiN0lnOWJjaG1pVTNMa2w0UEJZc1VwSHJoZzJTTERMZjV6ajZWeHlCN0ZXRUlWOW5uaGhFQ01tVXpoQk5OWVMwdW1uaWdXRnpZYUhnVGtGWTJKQjUxbkZmZVZ0KzlQVVJTWVJzZCt2dENTb2RmNlRWaml0YUQ4dkJBcHR3Rk5mOEoiLCJtYWMiOiIzNzA2NGExYmZlNjE4OGM1ODQ4OTQyNTFhMzZjZmY1ZDBhMDA3N2E4OGY4NmFkYzY5MDhjOWRiZjFmM2U1NmE4In0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610405755000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlBsSnRPaVNkM0ErMFZZY3BFbFZub2c9PSIsInZhbHVlIjoiVkRDdFNYYWhVd2ZBRDkwTXZLRDRIeWZ6ZXgvRmlRd1pJR2ZpQzNBN3RscEN6YlMzN2hRVWhjOWg1eTBWSk9rTEZrcmE0dzY0cVBpWERFRXplTGVxdkNsUXVRNlArb1R0WEhsVWRwL1hSOHZSZkduSWlKRFFEM3lYMEpaRm9EZXIiLCJtYWMiOiJlMjY0YWNlYjcwMmY2MGNmMDFmNTQ1YWM2YmViYzE4MDNiOTc2NzRlZTEzZTI1M2VhMWE2NmZhMmVlNmQyNDcwIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610405693000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InEzaFFaY3dOaFRrWE1JN1RrL0tQYXc9PSIsInZhbHVlIjoiL1VtbWdzTzRYNzM4YkRtY0ZabU1LLytlSHo1ejhZblFROTlXRUJVT0N1MlQ5NjByQTB5TUdlOWczb0hhcmtVWTUrWDVFUU5oclhOaG1FTE5GNjRseHc5Rkxjb1VOd3dEaW4zS0hvZWlWY1R1YTk0dk04N0MrcE4yaEUxRXN6WjIiLCJtYWMiOiI0ZjY1MGZkYzM0ODA1MDM4YjNmZDlhMzExNDM0OGQ4NDNiZmQ0NTUwNDhiMDk2YzgxMjQwYWYwMjVmMWMxZTEyIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610405693000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ink1OEdiN09WVEhvRUxCRGVUdTJZaWc9PSIsInZhbHVlIjoieDQwcXcrUnBLTDMvRjkxL1QvZm1OTERnTkQrTzBqbHZ3RGdiK0hNUmVYRGVJQnB2ZzIrbkE0SmtrVm9RdnoxMnI2ZXR6elJLYzVVVldqOXpVc3pCckJOYS9BSnh4MlVDQ3ExRjV4enRueU1DUVhCOXZ4SnNDRGNKRWJzVXhuV0kiLCJtYWMiOiI2NDY2YThlZjdjMDBkYjU3ZTE0ODg4NDU1YjE2OWI1OTRkMWM3MGZjOTlkOGYwNmYzMjg5ZmQzNzlmYmU0ZTYwIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610405683000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjlOK0R1UFZ2bjV5MVZuUFNSL0JCVHc9PSIsInZhbHVlIjoiRHdEZjl2OUlJVUNxcTZEYnAvcFRiOUg5ZnIxZWV6MXVZVzJNdGZIR1NKSy9GS2hBT0pNcXZnd2hXZFhOMlQxWVpUa2NRQXNJRGVscldmK0toemNkOFExVU1CbzNtckszWXE0dWorV3Rsc1EzN0YzNVNGQjFUVFA0Rlk1SUYvb1UiLCJtYWMiOiI3ODUxZTI1ZTM1NjYwNWU4NjU0YzVjZDUzMzY3ODRkMzdlNDQ2MDQ4OGZiYjNkOGY0NTRjMzkyY2I3YTk3ODA0In0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610405683000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkZJMkRlbGZNRDFMVEV0cXY4Zmp4V2c9PSIsInZhbHVlIjoiYTlMSk56Sm0rMTh0SHFBa1JnUXRWYjRvVW1kZzVWSElmVmo2OThUOWFIdVA1NVJtNXpzSjZZYkM5RmVWUVBKZGJFWkJEaHhqaUZwc2FMYldMYURMeml4L2FMeE1TeERqdjJuK2RsY3ZKbnVHWlpmWVp3REZSZDZ1Z29GUEoyS1ciLCJtYWMiOiIyZTU4NzdkZTBmMzZiZGI1MTZlOTEzZGI1MDRmZGExZTVlZDI5YzU4MzcxN2E4NzZhMjQyNmNlOWNlZjc1M2FkIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610405653000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkRLWVBYbDBSaFo0OVZYTWVoaWR1VkE9PSIsInZhbHVlIjoieXl5cU9iRFMrdE1RbTUxdGhtTldPVkExK292S1FQNTFwb1VzQWVyVVpFcHdXRitSMnJkYTVzdDVxTGhFNjEzQ2lMUUVZcWJRVjRKTTNxNkZ2eDU3V1dCd2lZVFA2dFB2b2FoY09UejJSMzRFWHp5OW8xT0t1WWsxNjFkMnQrbDAiLCJtYWMiOiI1NDQ3ZThjNjBjZDc3NTU3OWIxMTVjZTYwOWJmZmJiM2Q4ZTljODE0OGIxZWJjNmY4Mjk5OTFlMmZiMWU1OGIxIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610405653000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InpWVXlaNWNsS3JvTGhIUlQ0VHRWa0E9PSIsInZhbHVlIjoiRE9nemdhZEc1czZYaWNDWDR6MGczYUxjUjRqNGJOakN5N2JWVkIyZWpiZHpvT25vc3ZVUjRTM254d1dwdWhRdXBldkdXMW4rYnRkVWZrSlhGWlp3dWFZaXE5Z3FVYkpvWlk0V1N3TzdaQXBzRHN2SC9EaWJ0bWNPNnh6aFpaRnYiLCJtYWMiOiJlYmMxZmMxMzE1ZDgyMzUyYzE1ZDEzOGEzODU5M2VmZmI3OWI5NzY2OTkyOTVlOWIyZDA2NmU5MGEyZDJhYjM5In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610405625000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjBWVGRVdDZDN25uRVBMMHoySnVCeHc9PSIsInZhbHVlIjoieHRrR1ArMXM0VlYvMTVxTGtRZ3VDNHV0cE5WNzlqUXh6eUhYNys1R25PdHNWUjJKNTYxWXlqTkZJYnRIeHdia1VYbWZFL1ZNTVlGcEFheTBISkdlempSTjhXMVNTVi83U2J6K1Nkc1UvandidGNZZ2pUb0tyWkdzd0hEYTR0VTgiLCJtYWMiOiIzZWJkM2YyYWQxNWJiYmI0ZWVjNTViNjhhMmJjNmQ2NTgwZGVjNTA1OWUyNWVkMmFkMGE5N2RhYTdjNjc5YWNhIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610405625000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkN2MzZROW9pamsvbHJzbHpjNHlhdXc9PSIsInZhbHVlIjoiOVF4dWVGaHN2SGFnZ0VBK1hBUGVWRWVVaFQwUldpR2lKbi9kYmgyaHpiK0VqQzJpRVpvV3BBRVdHRWdNSTQrYlBEakRvdy84VkJNRC9ZMktqeTJ4TXR4eGF3S29CUEQ0aDBhcm94cVFLZDcxSy9SeitWY2lES3FLdXgrU2x4VTQiLCJtYWMiOiIwNDg4N2I1YjMzNjY4MjUwOTViNzVjM2Q2ZDkyYWUwYWE5NmU2NzcyZmEzZWNkMzdjYmM5NTZkNWFlNWY1OGRmIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610405589000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ims4NFZRcEZ1d0diSFpqUTRuUjc4d3c9PSIsInZhbHVlIjoieFc0N3ZYdUU3aS8xdUN0MzJQWkJMNi9WS2FFcFdmcU1pMFlERFVRTUFMRUhkTW5LcHhrWkd2NzkxMUwzWkFWYVcxakVzZ1RSQm5RdG9ndFI2WS9pTUhqUTVQalREZ3c0ZzdMbkp3R0xhL1I4d2trV1lHdUJSUTRKK1R0NS9NOVQiLCJtYWMiOiIxNTIzNDFmZmUyODE1NGY5YzRkNzc2NTZlNGVmMzYxMTBmYzJhMjAwMmM1NjcxNzhkY2ExYzNkZGEzMTAzYzE3In0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610405589000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImVYcTZyczRRSnR4Nmt3eDhoQUFNWUE9PSIsInZhbHVlIjoiUUlGOURTMURuanBtTGZMS1NwNHBJdG92WFlNR09IUk1OTk15dDNFV0RBV1VnS3U4WW1kd0hQUnJLRDEwT0NlY0hHSGluUytMaVhIaHNBc0FOSVBqcm16cUVHOHJ1VGo3ZFdvZGx6TVNLVnRqOGFCTlk2NW8wTGlKazh2MzlORk0iLCJtYWMiOiI2NDg3YzlkM2Q1ZmE4MjcyMDk3MjAwZTQ3MDZiMWU4NWE5ODRiY2MyYjhhOWU0MDc3ZDI3NjI2Yzg3NDg5Y2IxIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610405529000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Im9VdUk1S01aTUNNQ0ZLZW9sWktYaFE9PSIsInZhbHVlIjoiVzg0azdqb0RQbkpFZGtjZnJ3N2RvQ054MG9vMFpWaTRVeEZCQlJIS1VVVEpRdGZXejE5MVJETGNZcGQ0MGZEbkNhRmIxNWtiYy9FTGFMWWJDKzlwdVI0WTN6c01nT1pqL0VnWTF0WEg5ckNZVnVGbDFNZHdLTWg5VXBmUW1zQTgiLCJtYWMiOiI4Nzk1NTIyZDhiMzE2NDZmOTU3ODUzMjVlMzY1ODU0NjZmOGNiN2RiNTI2ZDFkZjFkZTFjZTgzNjgzZDRkOWJjIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610405529000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlpTOVNYcklUWHhheC9sazBKZm8vU2c9PSIsInZhbHVlIjoiZ1Nkdk9LRHpmeS9zSmNtYkM1SmJJWllUZU54VmVSVVU5NjB2RXJkVng1aGlPYkdVYktEa2VDZi9kRkFYd1N5NzNnTlBxU1hnRTVKYlRLcnA0ZlJ1UWlHNVdMaldYN3A2RCt6VnFRdzdZRzJPdkF4SUdPejd6RDVxZWkwUXVmd2wiLCJtYWMiOiI4ZDkzMDExZmQ1ZTViNDAyMmNiZTM3NmQ0NjJkMzZjZGFiM2Y2NDdkYmUzNjY2YzI4MTI3Y2ZiYjM3OTM5YjJiIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610404122000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlZ4SmtCSThQa2RGNlpvZWFzckIvMVE9PSIsInZhbHVlIjoibzFPdGN5UWxlTEpnZ2R6Y2VsNmVFaVpuMDNKR2dPVFdsMjFJU3RjL2FxMDVxdkM0eCsxNEN1TEJHVG9vb2QzcEhHY250cWhCUlg2UDRBZWFjZzd1MnpDOVJvYUZLS2J2UU9kZ25ZWlVBaGtsSVkxcGFXT0pVMHFsa2RraGFoOEsiLCJtYWMiOiJhNDNhMzY3NzVjMDNiYjA1YWY5YjFmNTA2NGQxZjA4ZjM0N2Q4MjI3MThhYzg4MTA3ZDU1NGNjMmIyYWNkY2RlIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610404122000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkgrV0o0RXFGUHZrTmc1NzFCTUVBVXc9PSIsInZhbHVlIjoic0NXak9MalV1VmNlTDk2Y1hWQWhGSEo1UFhHTG1zbUplcTFkWis5WVFuY1RoYXMwM0U3ZFpOai9ZbGxRZnBEM3ZwVmQ1TmtCRE4xUlBQVXVYY01nUkQ0SEZKOUREYUFKT2lvZzFzNFNBTy9ha3lVWno4NVc3cFk5WkNMTEs2VU8iLCJtYWMiOiI3ZmIxYjQxMWJkYzVlNWQxOTg4NGJkYzEzOTJkMWY4NTk4ZTU5MjQ0MDJmNWZjNTU3YzY3Y2M3YWJlYTk1ZjgyIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610404089000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjVXa1hhNGlTRTlNSjVYcFhaSXkvRGc9PSIsInZhbHVlIjoiSGdsa1ovUXlRaXNjUzk3ZGFUcHZ4cHU2cW81anRkbkpvQjVXTlNJKzFmeVdORFJ2ZDlGYnpocG9SbzBnbXMrSUZvWlJCYnJ3RzZhenZKZkIzRm1OVzcvWmpNYk9BWmtzSDQ5LzRTbENLdE5JSDNQdGZzYTZsVGRiRzBHV3NveDAiLCJtYWMiOiIwMzBmNzZhMzMzMDgwZjk2MTU1NTk3NjI5ZmYwNmNmYTZhMjBlNmQ5OTM2YjQ1ZjA4ODRhYTc3NTQ2ZmY4YTcwIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610404089000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlppdUp0VVJlWjFoUm5qWjJhNngzOWc9PSIsInZhbHVlIjoib1VndW5QcVRXR2JLQVQwSms1OVFVU21hWWV5bW5HcmVyVnBkZHdLVWVoOGRTU25QRlpjUlZBaEZRNzdXWis5NDNERUx1djR4YXpOZ3ovYnpxQmF6cHBMcjFjMVhsYTJaN0NDM0FFSDlZYWFUVGp2TEQwa25lQk9CbGN5WWNPUWQiLCJtYWMiOiIwZWQ5ZmQzMmUxOTgxMDQ3YzU1OGIwMjRlZTVhNWRiODYyNDJmNzE1YWI0YWUzYTU3NDVmZDRkZDYyODkyNDQ1In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610403927000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InhYVlZKN0JpTXdubGVrY1R1UlBiNmc9PSIsInZhbHVlIjoiMXExS21GOVVFWVpRU0QyaXdGVHRUU0hFemtYM3lPdmx5a1NpY29GZWczM0NkcWI0VXVKSHRXQ25TT0ZiT2hQN0JoaFFKeVFpWDk3SVVGb2EzSStlNS9nZEZ4TkFBT0ZyUTBDaXM5V1lnRS9pTW5QMVlxMGVuLys1S2E4czFrZ0QiLCJtYWMiOiI0YTQzNTJmYTYwMTA1NGFlNzkyN2JjNmEzODUwODAxN2JmNDUxYTRhY2YwOGNiMWE0OTFkM2Y5MzMzZmEzZmQ0In0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610403927000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InRWL0IrV05JWUhLREhPSllKL2xrYXc9PSIsInZhbHVlIjoicmd3cFVBQkk2cUJVRE0xQWxKcGZNN3VnME9DRUJtN0VzZTU5SzdUQWdNRys2M1JlanIxZlBnTitxbG5DK1BzaUcxaTFwdDFPdzkwTUZ0czBma2RBTnJrcVg3aitJZzVpa0xGMHR1ZW5xak43b21ZVUo1cHNwL0hYS3pidnZSUk8iLCJtYWMiOiI1NDY5MDkyN2UyZmM0MmM4MmM3YjMxNDI2NmMwZmRiM2U3NWQwODJlODk3N2RjYTE0MmZkODhmYmZkNzQ5MTliIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610403905000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImphTmJyQ1RwUTRUQXBnVEp2ZjRnOUE9PSIsInZhbHVlIjoiSWV0bjRSbVZYVktIOWhjdGRBNHNwSnVsSzF1Qk9lZkZKa2NuRFAzVmh6VjBEMHduTkhPZUhCbHN5ZHExeU9ZYkIrUG03OFRUaWx6VzlPVXI2a0w0NTNFdGhJKzk2NStmRE5qcnNCc1FETnUzYjBrbjJBMjJ6OWRYMVRpTi9WajAiLCJtYWMiOiIyMjMxNTczNTUzZjU4ODU2ZTc2ZjFkZmUwMmQ5MjMwMjNmNzRmZmMzZGJiNzQ4ZmJhNmM3Yjg5Y2I4N2FmMDU5In0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610403905000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IktXMmRiOXRKT2I4SWs3MXJnalFUTVE9PSIsInZhbHVlIjoiZWViOHlFeEpvM2N0aDBIbnYwTEZ3b2xINkdsY0RPOFJUZ0k2VnZPS09Yc2pKV1c2OEE4aDR1NkZnSmtINnhmZjlhWklPaWx3SE5ESDZScEdsOC9xOTV1ZHVkL1dJZEJuaWlQbmVvblFad2VEY0JrN1pnSysyMlB5dVN2NkJUZSsiLCJtYWMiOiI3MDRlYmE1Y2RiNjBkMjNkYzljYjYxNGY4Y2Q3ZDRmY2JkMDMyZWM2OGFmZDMyYWZhMWVhZjgyYThjMjViYzFlIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610403872000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ikpkbyt1UDNzR01tTTVKTDFXMk55Y2c9PSIsInZhbHVlIjoiK28wcm40RllQOWFTRjE2L3grRWZoSEg3cWhSeXRjbFVwVWkvWGUwSHhXOVE2Nk1QMithWUxmbzNzY1ZkQk1qbGhmWUpiTnlsNk55Qm00aFVXdDFPQmtBcHVEQjNHeGJ1cncyWnZzL05ucm9LUDlOQU5FOVh6K1VBL0hydXUwVmMiLCJtYWMiOiI4YzExYWRkZjA1ZjlhNjA0NGZlZmRjZGZhNjFjMTA2MzMzNThjZWE3NjYxZTQ3YmRkNzQ0MWUwYTk2NzkxNThkIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610403872000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkQ0TUZEUkpEY2ExVk84YTdoTUZLMVE9PSIsInZhbHVlIjoiRFFsejFYQWVKaXl0bDhQb2lIcWRuYUZ6bXNiK01OSHE0UHM1UDVobkwxYlkvQTBpVXAzVnpLcW1kRWhVVHMrNlI0U08vcktnWHpJTGd6T2JWMm1Ka1FSUGVMRDBJbU5LK3R2YVp4Q1JQa1FDY041a0lkeHpTVVRuMHVoOG5XSFUiLCJtYWMiOiIzZWM2YTEyZWQxMDQyNGY4NjUxZWJiMDMzMjMwYzY5ZDE4YjM3NDFjNTdjYmNhZjNlNWNhMWUxMTYxYzA5YTViIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610403786000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InR4Z3EvWW8xMVhOVWtDM29WekRtNkE9PSIsInZhbHVlIjoiSzg1ZHZndDcwZGhvVk5IU1orTS9uaDd2WjBRTDhXWXJmTkpacWcySXp3RnpRb0xZdzg2ZGxoenZ1M1pCZEhweXc4TlVuWWFNSC83dGlXVVM0MkJ3cDdTcnFXOEFBV3FaelJmS3FMVlE4VmlpczVDV3ZJQzJEcWlWNk52SWlCY1kiLCJtYWMiOiI1MGE4MGUxZTE2YTY3M2U2YjI5ZWQwMzgwMGFlODUyNTk3MGNmOGZkMTdjZWYxOGEwYmEyNjdiYzRiNmJiZjU1In0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610403786000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ik5CUmhGV3B0bzE4Z3I3RTA3bHdQclE9PSIsInZhbHVlIjoiYkdhM3J0SGdwbmhoWFh4ZWxwNWtsL1Y2QkpGZWlpcDF0Y2M0V1BESWVZUFRUbDliU3Q2SjBuWUs4ZncyZGtuN1QxNVNYa3RtYm1IYjFxTXhSQ25Hd3dvM2M2L00zM1d1SWlhVFppRlRnZ3pKbUFVdHBWdnFyNmM2MmtERzdoc3oiLCJtYWMiOiIyYmYyYTQxN2MxMjFiN2JlZTViNjA3NmI3Yjk1OWRhZDEzM2Q1NTc0YzRkN2I3OWNkMWIwNWQxNWQ4NTk0MDNhIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610403597000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjMrNnVsOWVQcVp4MURyOGRKTllrTGc9PSIsInZhbHVlIjoiWTU3dDNtMVVBcC84R0hSc0MvdmlTWUZMSTlpRkVncVY0TVZqSmZwWkgrWWRvaENmNU9DVTlHdzROeXVJMEJtMWppTnpHekRvMURsSlBoTml1ZmNQNUR4RzJiazNiL2JqYy9nSnlPZStjZFk0QVR3Zk51MFg0dVlEOVVHdWlWWkQiLCJtYWMiOiIzYzk5YWJlM2M1ZDBiMjU1ZDc1NmNlZTBmN2JlNDBhZWYyYjAzNWJhNTIwZDdkYzhkMTBlYTBjZTA3MDQ3NWFkIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610403597000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Im5YYTZSWjVkWWlPaURlYi9sWjZLOXc9PSIsInZhbHVlIjoiRzhzMEJiK3hFMU5DL0lMdXpUQVNrVGlTVUx2R3dubitZK0F2SGx1UVNLV3BmZW5aMnFPN3FJUzVZZXpvWlBiQnFzdUFCRXhhalk5eXNlNlVOZzZaajhhNW9YUVNZcU43dmlacHdCVC9BNHhkNnRoS0ZYVFlmbTBNNjdJL2k1QUMiLCJtYWMiOiJkNmQ0MzgyYTFiZjc4M2IwMDdmZTVkZDc1MTIyMWJiOWUwNmFiYjhhMWVjYzlkYmNlN2I3YWUzMDdlNTQ5YThmIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610403574000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkxIS2ZZVjlPYWRqK2pBUDlSS2RId2c9PSIsInZhbHVlIjoib1FlaFo2L1k1VG92anAxL1Y0b0s3aVRNdmw3cFM1MllHU2xyYWU0UElCaHNWTTUxeDkxNGgzaTRmNmtURTZBeXZUU0hlV3cwRnIvaU1lNXNnTkR1d3lZVnZLaStFVHlLZXFrTi8ralBzMTArYzU4eU0vNzJDaFRiUEVsVVk2YmoiLCJtYWMiOiJiMTBmNjA0N2Y4MGU2MjQ5ZWE4YjFkOGViMDdkZDU0NDM5ZjQwZmE0MmU2ZTlkMDk1NjE4NDg2OTI0OGZiMzE1In0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610403574000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlJ3ZTRIY0ZHSmltenEwTjFWZ1Y5Znc9PSIsInZhbHVlIjoiaTVjZGlnbTFHV2luMlM0cXFVWUtBVGtxM25wZzFOWUNCWUQxTkdZT1JmQ2FMa093blhBQWFIdGRUNW1qVFFXbWhPSVlDQ21kTHdyZVZDQ2FMenYzQVJFa3pzYjdwL09uZlE3aUozSHBwdE0yY3MwUjI3Wk9RaEFHRXlNR1F4SU4iLCJtYWMiOiI5OWJhMWViYjI3OGU5ZTkxZTljNWVmYzQyNTEyOWRlOGQ1ZDY0OTM3MzYzYmJkYjgyYWEyOGU1ZTU5OTBlYzNmIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610403459000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjZOejVXbnhOaXlyVktSZ09PQzFCc1E9PSIsInZhbHVlIjoiRVBpMHNlK2J6U2lFU0ZQRDRIbkhMZ3l6U1prMi9uUW4wZmVud1BGRGJMQzlmMDlOa1Y5RHRmdXNUdlJrZlJiZFRYMkp2ak5ramliT1RUVzVqaGdrSU11QkNGaWNRdXp6YUVwNkxnQUE1L3dGNEgwSHVCY0FUTjNXem5JOGZnT1UiLCJtYWMiOiJkOTRlOTBiYzAyODZiOGQ4MGI3NDA0YmEzODkzYTIxZjEwMDg0OTVhMDE4OGZhYjYzMmEzOTZhOWUwZGFhMjczIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610403459000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Imp6ZDRHeXQybHdXOWZUcy93QmcvU2c9PSIsInZhbHVlIjoiamtuVkhXOUZCem1RaHRaSXdjeG5aQ3QrWkxYSjJqdXM3L1Zacyt3c1dQQzAzQ0EyVi9qbWt0MkdnM2lvckN5QlJjZCtZdExUZVZ1TmNnSnFlYlV3VS9XSngvazdtMFhVSnVsVVNhSXp0RmNFUFJxQUQxYkVoSmdURHhZaGdFZlUiLCJtYWMiOiIyMzE0MTFjZDdkNWZiMTJhMTMxYmQzNDA5NWE1ZTUxOWMwMDhmMDljYzYxMzg0ZjdiMmE0ODA2ZjNiOTdkMGU5In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610403390000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImZrRWVQM25rc2tsY0MyNTNZN2dOcWc9PSIsInZhbHVlIjoiQ1puT1NCY0VVcmJYTHZ0V2c1Rm45V0h5ckFNWGNYNjlkZzUrb0IxNm5ONDNXMWRZYlREZzhxbnJnYTBoejdvQzlNcjIrMnpRZTJ1YTRsY0dsZEI2V0FkaUVkaVF5VzRxbDZVNkhlbWxsV3c5RWZpMGpDZ2ovRmt6Sm8rZ1ZLYjAiLCJtYWMiOiIwNjA0ZDQxMDczNTI5YzczOWIzM2JlYTIzOWVjNGJiZjJiNzlkZWI2MDU4M2U4MDMxNjE5YzIzYTlkNWE2YzFjIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610403390000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IngzUVF3Q2R0NnN5eTFmMHUrU2xrTEE9PSIsInZhbHVlIjoiQ3AzUkxXdjU0czZPa0h0RnRmbEY0QWx5Y3p3UDBnYVo5UExxMmdpa2lxclNiN3JBR2ZvaVVNYWpaN3dqN2hKZzhKSEd4YkpYSTdBdC9kN1oyd0NLT0oxUEpRWkJ1dWJMc2gvaVduL21HQVZ4YVpOOVU1dWtURUo1cDVpQ3RaWTYiLCJtYWMiOiIwMmIxZDYzMmMxNjJhY2U1NzczMTBjYWYxZmZjNjVjZjA3NDFjYTE1MjgyMzEzOTc1YzgxMTIzMDE0MGUxZGVmIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610403332000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IllEZVQxNGhiVDc1UTZqODEzNHBBUEE9PSIsInZhbHVlIjoiYUswOENDTm9IU09Eb001RXJKd2dLK3EyOXNJeElaNmtFOERNTXZIOFlmWFZzWU44aTVZQ3BhSHdIZUk4SVNhUFpDWkxuYTdwWE9mNDFhaUxVeksyUk9oajJ6bU93S3hrWXpJYUlRdEFPYVNkbWRtWTIwTDF2OXcwamZYS1BkTVUiLCJtYWMiOiJhOTRiZjUzZGE4ZGM0NWVhNzI4NTgzZTczMmEyMTkxZDdhMTUwOTlhZWM2YTdhNDYyYmE2YWYxZjNmNjg0OGJjIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610403332000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImNkaEl3bDBFL0oxVjBwV3A2cmdoTVE9PSIsInZhbHVlIjoib0xhY2tOUm5DN3pKSGdxNEhQb2VPcDl0VjhZNHNOcllmNkl3UmdCbUlJZHlOenJOYjZGTWxnSFRTL0Q4L1VxRkRiSUh1Z1RZQ3VEckF3aVI1b2kvYlR3eksvSDZFSUpxTnF3R25TRFoyMkxPK1lMZzlvMDZ5M2NxcUdLcVBtMHUiLCJtYWMiOiJiNmM5YmU0MjUwYTVmNGUyZjc2YzAwM2QzOTE5MWU4MzMwOGUyYmRjNTFlYTljNDEzMjk0YWE0MjZhYmZjZTgxIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610403294000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkVIOTlIVVA0RFJKRy9jZm4waklWN3c9PSIsInZhbHVlIjoibGhUaEdvOE1MTCtHL0tVSnBnaDhQa0hqcnljVkl2MWFXeFljOFNwYTk3OGZmenRyb08zb3N3WXh4bEhzUmpTa3NodkJzRUV6NFM0VW5taHlFaG1odGd2L0xNcUtIQ2hXeGFvdnJYOFZick9QM2FtazJsVkhYQmVyMVJ0R3A2NUgiLCJtYWMiOiI0OGI5OWUzMTBiZTg4YjcyMDZlMGNiMTI4YTgxOGM0YmMwYWFmY2JmMmE5ZjBkNzI3MmNkYjJiYzg2OWQwOTlkIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610403294000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImtOUGhWRUs2UHVIZFRGNUkrNEF1UVE9PSIsInZhbHVlIjoicHdlREE1cHVHRVl1MUdaM2sySXR6NFZNRm9YeFZaRm5lQnI4eUZEUDdDU253WjRqRUtKaHZTUVdCR3luZnhiQ0Y4R1dlOGdieFFLOGZBd25GeERGakZoMHE0VVBmd1U1bzhHc0Q2RzJNSG8xMjYyajVFSFFRVm5aTzBrcUEvTXQiLCJtYWMiOiI2OTAwY2VjNmE5YzE2Njc4MjBjNmMyNjdjZWU5NDZiNmIxMGJlYTNiNTdiMzgyOTAxN2JjZGI4NTMxZDk4MTMxIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610403227000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InhEOVdERWFxMkpNNHpaVXFPUHp6UkE9PSIsInZhbHVlIjoiS3BGU0FXRUkvWnpkSC9kcHk3d2ZQeDRUMXBSZm56MmRsellOWUNSNm1XcGl3cml5UDYydVRWL29aSk41RFl0bFQvOG4rTWp5WnludlZCU2E0a2ZiVmpKRllvQTYyZUxxNTdJc05QeDBPclk4bVJpOVhabzFMWU9aa2NQMnVHa1giLCJtYWMiOiJjNjQxYWIyZGQ1ZmM1OTUxNTA0NDQwZjFjYThlYTAwMjc4OWM0NjIzNDJiNjAzMDYzODcyNGQ2MmFlYmE5YWI0In0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610403227000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlRaWFZmZmFuNW1RQ1NZbG95MGNlb0E9PSIsInZhbHVlIjoiSGVOVHRQZFhackI3UEtPMk84ZTkyTEo4Q1JnN21BMmZzRW1NYjhsRDc1WnJzRWJ2ZU53ekR6ZTJyS1FwUVUxMDBsZTJONWI5WWxxL3NPQ042RFQvWnRsSXRZb2gydks3azZvMFMyK1RYdUVLTU9rQVo3VndWcXNNbkprZHJkaTciLCJtYWMiOiI3NGE2NzhmZmUxMWIzYjgzM2RkZDg5MDRkODc2NGRiMTdiN2ZjYzQzY2MwOTU0NDc1ZjJjMTRjMTEyZGRlN2EwIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610403062000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IldRbStKYk9ocGorTXhOV2Rxc3d3aFE9PSIsInZhbHVlIjoieWZxZ0Y0bVoxTDdJTWZnQWQ4azc3bm1FdXJxQWlndDJRSWNkY2hNOFhoOENuRFIrNmhUUm5qVkVBT1hzTTJIRUNmSDdCUDRXVVlJUXFHUE5TcExxdFl2bVZSaWQzSmNuRm5hRE5uT2duQlZRSHU3OGRzZlF6eUNrRTI3ckZNWmUiLCJtYWMiOiIzNTVkMjI4YTRlOGUyMmYxZmZlYjdjNmE1MDRhOTY0OTZhNWQwMDJiNGNmYTQ4NGU2ZGRhYzdiYjIyYzNkM2JmIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610403062000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlcvOUIyUm9aNnNXRHhyUHRiay9yWGc9PSIsInZhbHVlIjoiL1ZVcm8wcDViWmtGZVkxdGx6SVBoR1Vobk8yZGhLN1djcG5JMlhkUVI1OXZ1TzNNRXZjWFppdjVNblZla2JqK2JIekt0ZWdZKy9wNFBianRGNXF4Q0xPYVdud2dDZVNiVWZVeTRHUXFNaUdPU2ZDcGVIRVl2dXU3Z3lOdlpDb3oiLCJtYWMiOiJjODkyNzUzNzhhZjRkMjhmNjZlM2I0ZjhlYjAzNGJmMDcwMTAzNThkNWQzNmE0MTI3MTEzNzljMDQ3ZmVjYTZmIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610403016000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjA2K1hBSVRmVzg0L3FHVTRlZ0p4REE9PSIsInZhbHVlIjoidDdPRk5GSEZlcmpuRTllUzhRamhEeXJDeUZ2UVRQUHdSNEJlUFAxRVRMWjJ0ZVBnNUNuR05VWmhnMDZBODlFOFE2SmJHMU5IRnBERVhKelNFZG1ISjhzeDl6RkJHcmdtdE1XajBvV0Q5K2pTdnE0Sk9neXpRd3ljcjArVXdidUkiLCJtYWMiOiI3NTU4NmRmMTViYzJmY2MyZDcxODcwOWIwZGFlMjhjOWQ1NWM4NDVkZjE1MzdkZTg5NDJjOTFlYjNmNzcwNTY2In0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610403016000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Im5FWE4xdmNDRWh5OG5uL2JINmdtU3c9PSIsInZhbHVlIjoiTU0xRXpRdzd1V1VLK1NNSXE1OXdWR1E2MmZOUDU5OEQzRjBIZGNYT3FjYTYzb2R1SEdHdFdZZzMvd09mUmhjaXZyUTF5VWVSbSt1MCtyYmVKclhHZjFaOHhGb0hZNXZsbGUrdVBVMGh3MXJseHhyR2NyYnhXUXNzemExczhhVnQiLCJtYWMiOiIwYTg0NjE5Mjg5ZmYwNTRlMTY1YTgzNmZiMmYyN2E0NDM2YjA3Yzc2MTM4NTgzY2JmMDE5Mjg0OTA4NjA0MzYxIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610400165000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImU5c0tORFJKUUM5MmZLN3V2ZjlXZ2c9PSIsInZhbHVlIjoidGg2KzZ6QXB3R1hrdUkrSzhkY2hUc1FVUHAwWlJFU1VwYUhId2tOYWt0VjlQQnpGT3VsdmwzeGZjWndSVlFWRFNPVzhRVEdZbVdXeXJDVlpyRFBUSDgrQmZIMmUvd3lIN2NYcDFKOTV1UENmaW1BVW5lTFQ0bUZ6Q1NkS1pManciLCJtYWMiOiIwYjVkNDBiNGUxMDY5NzVhNWZmNjM3OWY4Njg2ZDM3YTUxMzE3NTQ5MzI0Y2ZlZmY5YTI1OTc3MTg2YjJjM2ZlIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610400165000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImZNS0Q4MGEra2tjSVJBUTRCa1VqT0E9PSIsInZhbHVlIjoibnFIOTY1b25QcklreDNEazBzRDMvd2hZbG83S0F6d2NldXhDWitIQUkreE5XeU15SSsralRWR3pQYWdyT2lJSElHNmhadmhUbTVyZEE2MUE0RUdDYi8xYmN6QnNoc3BZV1NSK2J4Qm91b2N5TjEvMkxGNk9iZ0k0WnRkWC9VYXEiLCJtYWMiOiIxZmUwYmZjZjQwNmFiNzZiNTNkNDRmNzBjNjgyYTBhNjUzODhhMzI0NzZjOGY4NTRmYTM2YmU4ZTE0M2QyYzM4In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://www.php.net/&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610397607000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkRRQ3NERXhuVWVwSnlyeStLSVBkNWc9PSIsInZhbHVlIjoiaS8wS0pwUi9xbisrQ0VGTEdBdGU4bCtRZ0VIK3hOMm5NbmtEMGZhcTBkblh6a0t3SC90WStaMU45TnlkczEwTjRYMlMwREs4NGY5QzJkZXQzQy93aGNjcUtlMExaMVJZLzJRY1AwTXM2ellkUWIreWhua0xBeklxeis1MXNrdnoiLCJtYWMiOiIzMzgyZWQ4MWFkMWRiZTVhZmZkODQyZTFiMGVmMTkzYWFiMDE0NTRmYWEyZTVhN2EyODc5NTIxMTE5ZjFkYzYxIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610397607000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Imt4em1RYkpuT09WVk90K2Z5UTNVTlE9PSIsInZhbHVlIjoidyt2V01jR3kvNytua0NNRVEzMUdEQXgvT0Y4Tyt4RWtDUFZMT2t5QVFJYU9iR3BJaWJJVzNSWkltVmN2dm42TVBsSisvengxZTUyd3NRa01VN1ZBblQrMUZENndnT2ZuWStKeXJzRDU1dnZxUU44QzcrRW9uN012clhkVk5icmQiLCJtYWMiOiI4Y2ZjYTFjNjc5ZDRkZjM0OTM1ZTllOTE0MjQ1MzJhNWQxYmQ3YmM1YmQwZTA1OTVjYjNjYjk3Zjk4YzkxOGUwIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;http://parser/api&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610397521000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InZQUk5nWlRPMDRsVndoZms2UzlyZHc9PSIsInZhbHVlIjoicEhJSGFRd0g4ZUJOaGdrNzZkcHlSaUdqS2dZY0YrUWk2Kzd6aVhWb25Wd2xTMFNHQXpiRVpCSzBGQjBCN2xoV0p6ZlR4LzJVOFBES1JwTlNwMVY1TVh6Y2xvV0FEdDYzNUhPRGlrZC8vaHNrczlMMm54N3d0cUxPZkxjOGk0Vm8iLCJtYWMiOiJmMjJiOWQ2YmIwNjg4MWFiMjllMjVlMmEwMGNlN2I5MDBjZjhjODFmZWI0NTNkOGVkYzJiZmQ4YjAxNDA1NjYyIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610397521000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjZacUlwZHB5aHJpVUN5WFNxeG14THc9PSIsInZhbHVlIjoieS9YcEdmekJOZmFoVFRwREZQcUNFd3c4QSt6TDlMcVRYSWxQbGlDQXhLd0JDOVQydTR0cERUcEM3NjBVdGdISUpweWsrdEllR3FVdmZvQi9DRVd1Z0xXcnFadXJOMHU2U1BOSW1wR3MzK2VLQTREMVFydDlvaUhOL3BnRFRHNWwiLCJtYWMiOiI2ZDlhNTc1MGRhMzAzYmJlODYzMDFmYjY5MmIwMDI2ZWUxODU4ZmJiNGVhNDk0MjYwZDY4ZTg3NWI3M2MwMTA1In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;http://parser/api&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610397446000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImxtSElBRHFaTEpMSGtHU0oxQjZNMkE9PSIsInZhbHVlIjoibFp0RGVJTFhCRENJMURSQ2t3d2ZWaVU4clRDS1JtRXdxUlBZWnZYaDlyTkkxVHdUdzJnZjhOMVNwUm9rbCthWjRUSTdWRnZJVnZsU0xJQ2Z6c2RseWRBanY1ZkhndEtWa2wzcWIwbXlXLzcxY1VxbVI2TGJlbWo4ZFRidU5tcW0iLCJtYWMiOiJjMjAyMzg5OGE5Y2YyNzZmYWEzNTVkNTAwNGJkOWM2NjllMGZhZTI4Yjk0ZTczNTljYjY3YzU3NzRmOTUxMTJiIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610397446000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ik15Tjh5RzZ3REZsdWtBcVBUYjE1VWc9PSIsInZhbHVlIjoid2ZMUUZMMGtSTC9ITElaVVk1aFNHN1FnMXBNNDAzT255aWdSQVVvTjlrRUI3c093MW4xaklialpNd1g1ZmtVOXdCVW5sb2tKbXBjTDVBYU1IUjBYK2t3azFlQnI3OEVVZHpMR2ROTzA5ZmVhZXE5NjRWNzN0Z3dCMWVmNzBJOTgiLCJtYWMiOiJjODQzZGJmN2NiYjEyZGZkOGNhYjkzNmNiMzJmYTM0YmIyYzE3NmIyZDAwNTllYjEzOWU0OTcwZTdmYjA2OGU0In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;http://parser/api&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610397433000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ii9nMUc0a0gwcEV4d1VEeDcrU3ZOT0E9PSIsInZhbHVlIjoiZTNUNWFBenhwQjRTcGFsRk5wcXVnRGx3MXh5bm50YnhlTGhQUDNRTm41dkNCZ2NJMFJJRzRVZEE0QUt2bnFJT1pVU0VJVEZGaExiNm52b1dzNmxKWGVteC9IYW1JYjlZK25halVmNVFtSlRrTHZuZDg1REcyRkRzNnlQMmt1eHYiLCJtYWMiOiJiYWJiYjRlZDg1MjVjODczYTE1YWM4NjhhNGRhNzg3ODFhN2EzNWJhZjQ3MGFjNDM1M2I5ODc4ODZhMjUyZWE4In0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610397433000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IldkUHNnQVhiMXFRZi9sSWRqWHhrQ3c9PSIsInZhbHVlIjoiamVVOHl5NEpqSUMvbVhxY2J4azZMTFYxTWxQSzlXZm1VaXBueWx4U1FPdnlZbnRpY3UwbVh3aG1Eb0Y2RmVpQ01lN1hXa2JGNWEvTklyL1AzOGVuTUNEb1pHc3hJQ3ZEYk5JazE2SUlFUjB6cWxMR2J5ZCt6ODJjY0dFbVExZ1IiLCJtYWMiOiI5MjQ2YTVkZTIzMGI0YjBkNmVlMTJhMzZlZWMyZDhjOGRhZDk2MDFkNjc0NmVjOWQ5OTA2ZmUyZmQ5YWU4MmFjIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;http://parser/api&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610397162000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IklZTkc5TGRwRHhSNWhBWXJUSlcwcWc9PSIsInZhbHVlIjoiL3RibFNFcm5JaEVhSE9rNGZiYWpxZTk2MWM0UENuOGRxQkN1R1kyNE84QklBZWZDUGcxS21wbmNPTVg2MXV5ZStyOFl2MkU3anQvV2x6UHJPTnh2WXN6M3VKb0JrMXFsbmlpb3lNaFpDc0tjNlVCRSt3Y1VVeXdVNzNnbE9lTHYiLCJtYWMiOiJhMzhlNTYxZjJkNTIzOWIzOTVkZjlmOWRkNGYzMWYzZmY0M2VmNGQ5ZTNmNzlhOTA2ZmI2YzM1YmEwOGEzNWFlIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1610397162000" />
+                <option name="domain" value="parser" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Imh5cXhLRm9vU1k0THVrcm5nY0VwSFE9PSIsInZhbHVlIjoiRTBEOHJNMTFvYVFZdFlkTUhBcUprTHd1cWdpc0drL1VRdndSb3AzU3pXczJiUUQ1RnFrcWMyaE54NXVuYThWMVNjKzlGY0pwbXdlcDJnZEtacWJtVjFuY3pJb3g0V1ZkamFBTlN5NVJLVjIrTHNqWHAvL2hOc25XKytxbnBid2siLCJtYWMiOiIwZDdiYjMyOTMwYzA4MmU4YmI1OGJlYjFiNWUzMDllODRhMmRmNmRlODVkMWQzODQzOWQzMGY4ZTc3Yzk4ZDI4In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;awdawd&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;awdawd&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://parser/api" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;domain&quot;: &quot;https://.google.com&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="HTTP Request.scratch#1">
+    <configuration name="scratch#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.scratch#1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db9ca7a0-9317-44bf-8b11-a97e1ae94e71" name="Default Changelist" comment="" />
+      <created>1610388024338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610388024338</updated>
+      <workItem from="1610388042041" duration="12077000" />
+      <workItem from="1610400912693" duration="210000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

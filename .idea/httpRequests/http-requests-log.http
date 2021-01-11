@@ -1,0 +1,600 @@
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://tsunami.bar/"
+}
+
+<> 2021-01-12T002856.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://tsunami.bar/"
+}
+
+<> 2021-01-12T002817.500.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-12T002627.500.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-12T002339.500.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-12T002042.500.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-12T001339.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-12T001245.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-12T001142.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-12T001118.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-12T001037.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-12T001008.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-12T000839.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-12T000805.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-12T000728.500.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-12T000023.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-12T000004.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T235949.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T235939.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T235848.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T235829.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T235810.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T235752.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T235700.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T235648.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T235615.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T235555.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T235453.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T235443.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T235413.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T235345.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T235309.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T235209.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T232842.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T232809.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T232527.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T232505.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T232432.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T232306.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T231957.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T231935.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T231739.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T231630.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T231532.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T231454.500.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T231347.500.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T231102.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "https://www.php.net/"
+}
+
+<> 2021-01-11T231016.500.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "http://parser/api"
+}
+
+<> 2021-01-11T222245.200.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "http://parser/api"
+}
+
+<> 2021-01-11T221923.500.json
+
+###
+
+GET http://parser/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "domain": "http://parser/api"
+}
+
+<> 2021-01-11T214007.200.json
+
+###
+

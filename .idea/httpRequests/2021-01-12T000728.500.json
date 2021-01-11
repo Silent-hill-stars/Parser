@@ -1,0 +1,333 @@
+{
+  "message": "preg_match(): Unknown modifier '/'",
+  "exception": "ErrorException",
+  "file": "C:\\web\\OpenServer\\domains\\parser\\app\\Http\\Module\\Parser\\Parser.php",
+  "line": 83,
+  "trace": [
+    {
+      "function": "handleError",
+      "class": "Illuminate\\Foundation\\Bootstrap\\HandleExceptions",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\app\\Http\\Module\\Parser\\Parser.php",
+      "line": 83,
+      "function": "preg_match"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\app\\Http\\Module\\Parser\\Parser.php",
+      "line": 93,
+      "function": "checkDomain",
+      "class": "App\\Http\\Module\\Parser\\Parser",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\app\\Http\\Module\\Parser\\Parser.php",
+      "line": 109,
+      "function": "parse",
+      "class": "App\\Http\\Module\\Parser\\Parser",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\app\\Http\\Controllers\\Api\\ParseController.php",
+      "line": 19,
+      "function": "init",
+      "class": "App\\Http\\Module\\Parser\\Parser",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php",
+      "line": 54,
+      "function": "action",
+      "class": "App\\Http\\Controllers\\Api\\ParseController",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php",
+      "line": 45,
+      "function": "callAction",
+      "class": "Illuminate\\Routing\\Controller",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php",
+      "line": 254,
+      "function": "dispatch",
+      "class": "Illuminate\\Routing\\ControllerDispatcher",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php",
+      "line": 197,
+      "function": "runController",
+      "class": "Illuminate\\Routing\\Route",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+      "line": 692,
+      "function": "run",
+      "class": "Illuminate\\Routing\\Route",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+      "line": 128,
+      "function": "Illuminate\\Routing\\{closure}",
+      "class": "Illuminate\\Routing\\Router",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php",
+      "line": 41,
+      "function": "Illuminate\\Pipeline\\{closure}",
+      "class": "Illuminate\\Pipeline\\Pipeline",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+      "line": 167,
+      "function": "handle",
+      "class": "Illuminate\\Routing\\Middleware\\SubstituteBindings",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken.php",
+      "line": 78,
+      "function": "Illuminate\\Pipeline\\{closure}",
+      "class": "Illuminate\\Pipeline\\Pipeline",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+      "line": 167,
+      "function": "handle",
+      "class": "Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Middleware\\ShareErrorsFromSession.php",
+      "line": 49,
+      "function": "Illuminate\\Pipeline\\{closure}",
+      "class": "Illuminate\\Pipeline\\Pipeline",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+      "line": 167,
+      "function": "handle",
+      "class": "Illuminate\\View\\Middleware\\ShareErrorsFromSession",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php",
+      "line": 121,
+      "function": "Illuminate\\Pipeline\\{closure}",
+      "class": "Illuminate\\Pipeline\\Pipeline",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php",
+      "line": 63,
+      "function": "handleStatefulRequest",
+      "class": "Illuminate\\Session\\Middleware\\StartSession",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+      "line": 167,
+      "function": "handle",
+      "class": "Illuminate\\Session\\Middleware\\StartSession",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse.php",
+      "line": 37,
+      "function": "Illuminate\\Pipeline\\{closure}",
+      "class": "Illuminate\\Pipeline\\Pipeline",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+      "line": 167,
+      "function": "handle",
+      "class": "Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\EncryptCookies.php",
+      "line": 67,
+      "function": "Illuminate\\Pipeline\\{closure}",
+      "class": "Illuminate\\Pipeline\\Pipeline",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+      "line": 167,
+      "function": "handle",
+      "class": "Illuminate\\Cookie\\Middleware\\EncryptCookies",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+      "line": 103,
+      "function": "Illuminate\\Pipeline\\{closure}",
+      "class": "Illuminate\\Pipeline\\Pipeline",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+      "line": 694,
+      "function": "then",
+      "class": "Illuminate\\Pipeline\\Pipeline",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+      "line": 669,
+      "function": "runRouteWithinStack",
+      "class": "Illuminate\\Routing\\Router",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+      "line": 635,
+      "function": "runRoute",
+      "class": "Illuminate\\Routing\\Router",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+      "line": 624,
+      "function": "dispatchToRoute",
+      "class": "Illuminate\\Routing\\Router",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php",
+      "line": 166,
+      "function": "dispatch",
+      "class": "Illuminate\\Routing\\Router",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+      "line": 128,
+      "function": "Illuminate\\Foundation\\Http\\{closure}",
+      "class": "Illuminate\\Foundation\\Http\\Kernel",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php",
+      "line": 21,
+      "function": "Illuminate\\Pipeline\\{closure}",
+      "class": "Illuminate\\Pipeline\\Pipeline",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+      "line": 167,
+      "function": "handle",
+      "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php",
+      "line": 21,
+      "function": "Illuminate\\Pipeline\\{closure}",
+      "class": "Illuminate\\Pipeline\\Pipeline",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+      "line": 167,
+      "function": "handle",
+      "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php",
+      "line": 27,
+      "function": "Illuminate\\Pipeline\\{closure}",
+      "class": "Illuminate\\Pipeline\\Pipeline",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+      "line": 167,
+      "function": "handle",
+      "class": "Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php",
+      "line": 86,
+      "function": "Illuminate\\Pipeline\\{closure}",
+      "class": "Illuminate\\Pipeline\\Pipeline",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+      "line": 167,
+      "function": "handle",
+      "class": "Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\fruitcake\\laravel-cors\\src\\HandleCors.php",
+      "line": 37,
+      "function": "Illuminate\\Pipeline\\{closure}",
+      "class": "Illuminate\\Pipeline\\Pipeline",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+      "line": 167,
+      "function": "handle",
+      "class": "Fruitcake\\Cors\\HandleCors",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\fideloper\\proxy\\src\\TrustProxies.php",
+      "line": 57,
+      "function": "Illuminate\\Pipeline\\{closure}",
+      "class": "Illuminate\\Pipeline\\Pipeline",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+      "line": 167,
+      "function": "handle",
+      "class": "Fideloper\\Proxy\\TrustProxies",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+      "line": 103,
+      "function": "Illuminate\\Pipeline\\{closure}",
+      "class": "Illuminate\\Pipeline\\Pipeline",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php",
+      "line": 141,
+      "function": "then",
+      "class": "Illuminate\\Pipeline\\Pipeline",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php",
+      "line": 110,
+      "function": "sendRequestThroughRouter",
+      "class": "Illuminate\\Foundation\\Http\\Kernel",
+      "type": "->"
+    },
+    {
+      "file": "C:\\web\\OpenServer\\domains\\parser\\public\\index.php",
+      "line": 52,
+      "function": "handle",
+      "class": "Illuminate\\Foundation\\Http\\Kernel",
+      "type": "->"
+    }
+  ]
+}
